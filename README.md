@@ -41,4 +41,8 @@
 1. Watermark
    ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373590190265860106/image.png?ex=682af70d&is=6829a58d&hm=67096565edac40c6049638121edc0a112bf5f2339c5e0abc1fd99e299ae038a3&)
 
-"# SimpleWatermark" 
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by @Cloudsupremacy a.k.a Comethruuu
