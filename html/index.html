@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Watermark Cloud</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="watermark">#CLOUDSERVER</div>
+
+  <script>
+    window.addEventListener('message', function (event) {
+      if (event.data.show) {
+        document.getElementById('watermark').style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>

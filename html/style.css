@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Varsity';
+  src: url('varsity_regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#watermark {
+  position: absolute;
+  top: 5%;
+  right: 2%;
+  font-size: 24px;
+  font-family: 'Varsity', sans-serif;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  display: none;
+}
