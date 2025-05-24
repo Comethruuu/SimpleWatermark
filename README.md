@@ -47,4 +47,4 @@
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by @Cloudsupremacy a.k.a Comethruuu
+[Cloud](https://github.com/Comethruuu)
