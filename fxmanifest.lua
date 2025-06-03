@@ -1,6 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'cloudsupremacy'
+author 'cloud'
+repository 'https://github.com/Comethruuu/cloud-editor.git'
 
 ui_page 'html/index.html'
 
