@@ -9,8 +9,7 @@
 - Menampilkan watermark custom di pojok kanan atas.
 - Menggunakan font lokal (offline), tidak butuh Google Fonts.
 - Mudah dikustomisasi (warna, posisi, ukuran, font).
-- Lightweight, tidak memengaruhi performa server.
-
+  
 ---
 
 ## 🧩 Instalasi
