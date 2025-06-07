@@ -38,9 +38,9 @@
 ## 🖼️ Preview
 
 1. Watermark
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6844d71f&is=6843859f&hm=90a96dc23c65ef54650484bedfafa0865f140b5bfb8573d0f61e565065c3a7a7&)
+   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373590190265860106/image.png?ex=6844ac4d&is=68435acd&hm=bc89cfa03f0dadf668044e09de44a16a734a099fff7a7c12eb1597e53b3c4024&)
 2. Resmon
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273781468135444/Screenshot_2025-05-17_190959.png?ex=6844d71f&is=6843859f&hm=5e5368ff970d35a7e69fcbd301e99c10fcf27c0f59a4a6f545a594fee92d67a4&)
+   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373596140599115797/image.png?ex=6844b1d8&is=68436058&hm=8d7124447cae1896f1cc503f3ddabfb7877817866bc9f916190066fd0ed60cf2&)
 
 ---
 
