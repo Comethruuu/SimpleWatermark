@@ -1,6 +1,6 @@
-# 🌟 Cloud Simple Watermark With Costume Font FiveM [ESX / QB Core / Standalone] [ID]
+# 🌟 SimpleWatermark - FiveM Script [ID]
 
-**Cloud Simple Watermark** adalah script sederhana untuk menampilkan teks watermark di layar pemain dalam server FiveM. Cocok untuk branding server, identitas komunitas, atau sekadar mempercantik UI dengan gaya minimalis.
+**SimpleWatermark** adalah script sederhana untuk menampilkan teks watermark di layar pemain dalam server FiveM. Cocok untuk branding server, identitas komunitas, atau sekadar mempercantik UI dengan gaya minimalis.
 
 ---
 
@@ -15,11 +15,11 @@
 ## 🧩 Instalasi
 
 1. Download or clone this repository into your server’s `resources` folder:
-   ```bash
+   ```cfg
    git clone https://github.com/Comethruuu/SimpleWatermark.git
    ```
 2. Tambahkan ke `server.cfg`:
-   ```bash
+   ```cfg
    ensure SimpleWatermark
    ```
 
