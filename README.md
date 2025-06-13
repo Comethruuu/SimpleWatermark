@@ -1,4 +1,3 @@
----
 
 # 🌟 SimpleWatermark - FiveM Script [ID]
 
