@@ -1,3 +1,5 @@
+---
+
 # 🌟 SimpleWatermark - FiveM Script [ID]
 
 **SimpleWatermark** adalah script sederhana untuk menampilkan teks watermark di layar pemain dalam server FiveM. Cocok untuk branding server, identitas komunitas, atau sekadar mempercantik UI dengan gaya minimalis.
@@ -47,3 +49,4 @@
 ## 🧑‍💻 Author
 
 [Cloud](https://github.com/Comethruuu)
+
