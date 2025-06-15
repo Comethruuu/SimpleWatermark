@@ -8,7 +8,7 @@
 - Easy to customize (color, position, size, font).
   
 ---
-## 🧩 Instalasi
+## 🧩 Installation
 1. Download or clone this repository into your server’s `resources` folder:
    ```cfg
    git clone https://github.com/Comethruuu/SimpleWatermark.git
