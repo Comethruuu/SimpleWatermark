@@ -1,5 +1,5 @@
 Citizen.CreateThread(function()
-    Wait(1000)
+    Wait(500)
     SetNuiFocus(false, false)
     SendNUIMessage({ show = true })
 end)
